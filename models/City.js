@@ -1,5 +1,6 @@
 import { Schema,model } from "mongoose";
 
+
 let collection ="citys"
 let schema = Schema({
     name:{type:String,requierd:true},
@@ -10,7 +11,7 @@ let schema = Schema({
     Descripción:{type:String,required:true},
     population:{type:Number,required:true},
     currency:{type:String,required:true},
-    borders:{type:String,required:true}
+    borders:{type:String,required:true},
      
 },{
     timestamps:true
