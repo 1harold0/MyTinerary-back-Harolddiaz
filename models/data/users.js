@@ -7,7 +7,7 @@ let users = [
       name: "Lucía Martínez",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "lucia.martinez@example.com",
-      paswore: "password123",
+      password: "password123",
       rol: "user",
       age: "29"
     },
@@ -15,7 +15,7 @@ let users = [
       name: "Carlos Gómez",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "carlos.gomez@example.com",
-      paswore: "passcarlos",
+      password: "passcarlos",
       rol: "admin",
       age: "35"
     },
@@ -23,7 +23,7 @@ let users = [
       name: "María Rodríguez",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "maria.rod@example.com",
-      paswore: "mariapass",
+      password: "mariapass",
       rol: "user",
       age: "24"
     },
@@ -31,7 +31,7 @@ let users = [
       name: "Juan Pérez",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "juan.perez@example.com",
-      paswore: "juanpass",
+      password: "Juanpass12.",
       rol: "user",
       age: "30"
     },
@@ -39,7 +39,7 @@ let users = [
       name: "Sofía Ramírez",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "sofia.ramirez@example.com",
-      paswore: "sofiapass",
+      password: "sofiapass",
       rol: "user",
       age: "26"
     },
@@ -47,7 +47,7 @@ let users = [
       name: "Andrés Herrera",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "andres.herrera@example.com",
-      paswore: "andres123",
+      password: "andres123",
       rol: "admin",
       age: "40"
     },
@@ -55,7 +55,7 @@ let users = [
       name: "Valentina López",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "valentina.lopez@example.com",
-      paswore: "valepass",
+      password: "valepass",
       rol: "user",
       age: "22"
     },
@@ -63,7 +63,7 @@ let users = [
       name: "Diego Torres",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "diego.torres@example.com",
-      paswore: "diegopass",
+      password: "diegopass",
       rol: "user",
       age: "33"
     },
@@ -71,7 +71,7 @@ let users = [
       name: "Camila Ruiz",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "camila.ruiz@example.com",
-      paswore: "camilapass",
+      password: "camilapass",
       rol: "user",
       age: "27"
     },
@@ -79,7 +79,7 @@ let users = [
       name: "Luis Mendoza",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "luis.mendoza@example.com",
-      paswore: "luism123",
+      password: "luism123",
       rol: "admin",
       age: "38"
     },
@@ -87,7 +87,7 @@ let users = [
       name: "Ana Torres",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "ana.torres@example.com",
-      paswore: "anapass",
+      password: "anapass",
       rol: "user",
       age: "31"
     },
@@ -95,7 +95,7 @@ let users = [
       name: "Mateo Salazar",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "mateo.salazar@example.com",
-      paswore: "mateopass",
+      password: "mateopass",
       rol: "user",
       age: "29"
     },
@@ -103,7 +103,7 @@ let users = [
       name: "Isabella Navarro",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "isabella.n@example.com",
-      paswore: "isapass",
+      password: "isapass",
       rol: "user",
       age: "25"
     },
@@ -111,7 +111,7 @@ let users = [
       name: "Fernando Castro",
       photo: "https://img.freepik.com/psd-premium/hombre-dibujos-animados-sonriente-3d-avatar_975163-755.jpg?w=740",
       email: "fernando.castro@example.com",
-      paswore: "ferpass",
+      password: "ferpass",
       rol: "admin",
       age: "34"
     },
@@ -119,7 +119,7 @@ let users = [
       name: "Paula Vega",
       photo: "https://img.freepik.com/fotos-premium/avatar-digital-administrador-cuentas-ia-generativa_934475-9386.jpg?w=740",
       email: "paula.vega@example.com",
-      paswore: "paulapass",
+      password: "paulapass",
       rol: "user",
       age: "28"
     }
